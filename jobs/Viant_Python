@@ -1,0 +1,37 @@
+---
+title: Junior Python Developer
+company: Viant, Inc.
+url: www.viantinc.com
+location: Irvine, California, United States
+contract: permanent
+contact:
+    name: Mr. Jeremy Yu
+    email: jyu@viantinc.com
+    phone: +01 323 638 7734
+created: !!timestamp '2015-10-20' 
+tags:
+  - california
+  - orange county
+  - python
+  - data science
+  - modeling
+  - sql
+  - django
+  - junior
+---
+
+# Overview
+
+The Data Science team at Viant is a fast growing team dealing with challenging advertising problems including identity-based targeting, cross-device-attribution, real-time bidding algorithms, and data visualization and reporting products.
+We are looking for a talented Software Developer to build out our internal analytics and visualization tools and technologies. 
+Data is core to Viant daily operations and insights derived from this data enables our incredible growth. 
+
+# Role requirements
+
+* 1+ year of experience with Python.
+* Expertise in analyzing existing, and creating new, complex SQL queries for ETL process.
+* Strong understanding of Object-oriented programming.
+* Machine Learning, and Big Data experience a plus.
+* Familiarity with the Linux Operating System.
+* BS in Engineering or Computer Science with 1+ years of working experience, or equivalent experience.
+
